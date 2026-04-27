@@ -29,7 +29,7 @@
 - Multi-table feature engineering across application, bureau, and installment data
 - Handles severe class imbalance with SMOTE and cost-sensitive learning
 - Business-aligned evaluation: custom cost matrix to minimize financial loss
-- Stack: `Python` · `pandas` · `scikit-learn` · `imbalanced-learn` · `LightGBM`
+- Stack: `Python` · `pandas` · `scikit-learn` · `imbalanced-learn` · `LightGBM` `Boruta` `Optuna` `SQL` `DuckDB` 
 
 ---
 
@@ -39,27 +39,26 @@
 - Compared multiple classifiers (Logistic Regression, Random Forest, XGBoost)
 - SMOTE for imbalance handling; GridSearchCV for hyperparameter tuning
 - Primary metric: ROC-AUC (clinically appropriate for imbalanced medical data)
-- Stack: `Python` · `scikit-learn` · `seaborn` · `imbalanced-learn`
+- Stack: `Python` · `scikit-learn` · `seaborn` · `imbalanced-learn` 
 
 ---
 
 ## Tech Stack
 
 ```
-Languages     Python · SQL .C
+Languages     Python · SQL · C
 ML/DS         scikit-learn · LightGBM · XGBoost · imbalanced-learn · pandas · NumPy
 NLP           HuggingFace Transformers · PyTorch · Gradio
 Visualization seaborn · matplotlib
-Tools         Git · Jupyter · VS Code
-OS            Linux · Windows · Mac     
+Tools         Git · Jupyter · VS Code · Linux      
 ```
 
 ---
 
-## Contacts:
+
+## Contact
 
 <p>
   <a href="https://linkedin.com/in/beratercan">LinkedIn</a> ·
-  <a href="b.ercan6334@gmail.com">Email</a>
+  <a href="mailto:b.ercan6344@gmail.com">Email</a>
 </p>
-
